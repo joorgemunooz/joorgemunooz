@@ -1,47 +1,71 @@
-<div align="center">
-  <h1>👨‍💻 Jorge Muñoz Cofrades</h1>
-  <h3>Estudiante 2º DAM | Java, C#, Swift, Kotlin</h3>
-  <p>
-    <i>"Disciplinado y en constante aprendizaje. Experiencia en Mobile, Web y OutSystems."</i>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/jorge-muñoz-cofrades-88b319250">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jorgenoves1110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+### Jorge Muñoz 👋 Hello, I'm Jorge Muñoz
+**Junior Developer | Mobile & Full Stack .NET | DAM Student**
 
-<br />
-
-### 🚀 Sobre mí
-> [cite_start]🎓 **Formación:** Terminando **Desarrollo de Aplicaciones Multiplataforma (DAM)**[cite: 10, 13].
->
-> [cite_start]💼 **Experiencia Real:** > * Desarrollo de Apps con **OutSystems** en **Kanzan Tech**[cite: 24, 31].
-> * Técnico de redes y hardware en **Unitel**[cite: 32, 33].
-> [cite_start]* Soft skills y trabajo en equipo en **Amazon**[cite: 20, 23].
->
-> [cite_start]🍎 **Intereses:** Especial interés en desarrollo móvil (**SwiftUI** & **Jetpack Compose**).
+#### 🚀 About Me
+🎓 Student of **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+📱 Passionate about **Mobile Development** (both Native & Cross-platform) and **.NET Ecosystem**.
+⚙️ Experienced with C#, Java, Swift, React Native, and SQL.
+🧠 Constantly learning and building projects to solve real-world problems.
 
 ---
 
-### 🛠 Arsenal Tecnológico
+#### 🛠️ My Skills
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **💻 Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **📱 Mobile Dev** | ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **🌐 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **🖥️ Desktop** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white) |
-| **🗄️ Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
-| **⚙️ Tools & IDEs** | ![OutSystems](https://img.shields.io/badge/OutSystems-DD0000?style=flat-square&logo=outsystems&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
-| **🧩 Markup & Data** | ![XML](https://img.shields.io/badge/XML-0066CC?style=flat-square&logo=xml&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
-| **🖥️ OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+**💻 Programming Languages**
+Java · C# · Kotlin · Swift · TypeScript · JavaScript · PHP · PL/SQL
+
+**📱 Mobile Development**
+React Native · Android (Kotlin) · iOS (Swift / Xcode)
+
+**🖥️ Desktop & .NET Ecosystem**
+.NET Framework · WPF · WinForms · XAML
+
+**🌐 Web Development**
+React.js · HTML5 · CSS3 · Bootstrap · XML · XSLT
+
+**🗄️ Databases & Backend**
+MySQL · SQLite · Firebase · JPA · JDBC · SQL
+
+**⚙️ Tools & DevOps**
+Git · GitHub · Xcode · Visual Studio · XAMPP · PhpMyAdmin
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joorgemunooz&show_icons=true&theme=radical&hide_border=true&locale=es" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joorgemunooz&layout=compact&theme=radical&hide_border=true&locale=es" height="160" />
-</div>
+#### 📌 Featured Projects
+
+**🔹 [Nombre de tu Proyecto Móvil]**
+📱 Mobile application built with **React Native / Kotlin**.
+⚙️ Key features: Real-time data sync with Firebase.
+🔗 Repository: [Link to repo]
+
+**🔹 [Nombre de tu Proyecto .NET]**
+🖥 Desktop management tool built with **C# & WPF**.
+🗄️ Integrated with SQL Server/MySQL using Entity Framework/ADO.NET.
+🔗 Repository: [Link to repo]
+
+**🔹 [Nombre de tu Proyecto Web]**
+🌐 Interactive web dashboard using **React.js & Bootstrap**.
+🔗 Repository: [Link to repo]
+
+---
+
+#### 📚 Education
+**🎓 Grado Superior — Desarrollo de Aplicaciones Multiplataforma (DAM)**
+*2024 – Present*
+
+* **Core:** Java, C#, SQL, Mobile Dev.
+* **Focus:** Cross-platform solutions (React Native, .NET).
+* **Data:** MySQL, PL/SQL, Firebase.
+
+---
+
+#### 📈 GitHub Stats
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+
+---
+
+#### 🤝 Connect with me
+📫 **Email:** [tu_email@gmail.com](mailto:tu_email@gmail.com)
+💼 **LinkedIn:** [Enlace a tu LinkedIn]
+
+✨ *Thanks for visiting my profile! Feel free to explore my repositories.*
