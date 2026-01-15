@@ -1,76 +1,90 @@
-# Hi there, I'm Jorge Muñoz 👋
-### 👨‍💻 Junior Developer | DAM Student | Multiplatform Enthusiast
-
-I'm a **Cross-Platform Application Development (DAM)** student passionate about building mobile apps and robust desktop solutions using the .NET ecosystem.
+<h1 align="center">👋 Hola, soy Jorge Muñoz</h1>
+<h3 align="center">Junior Developer | Backend & Mobile | Firebase</h3>
 
 ---
 
-## 🛠️ My Skills
+### 🚀 Sobre mí
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-### 🖥️ Desktop & .NET Ecosystem
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-1976D2?style=for-the-badge&logo=windows&logoColor=white)
-![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
-
-### 🌐 Frontend & Web
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![XML](https://img.shields.io/badge/XML-XX-orange?style=for-the-badge&logo=xml&logoColor=white)
-![XSLT](https://img.shields.io/badge/XSLT-Transform-blue?style=for-the-badge&logo=xml)
-
-### 🗄️ Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Java_Persistence-red?style=for-the-badge&logo=java)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### ⚙️ Tools & IDEs
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+- 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 👨‍💻 Enfocado en desarrollo **backend** y apps móviles
+- 🧠 Siempre aprendiendo y construyendo proyectos
+- ☁️ Interesado en integrar servicios cloud con **Firebase**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Stack Tecnológico
 
-### 🔹 [Proyecto DAM 1: Nombre del Proyecto]
-*Descripción breve de tu proyecto. Ejemplo: A comprehensive management system for libraries built with Java and MySQL.*
-* **Tech:** Java, JDBC, MySQL, Swing.
-* 🔗 [View Repository](#)
-
-### 🔹 [Proyecto DAM 2: Nombre App Móvil]
-*Descripción breve. Ejemplo: Cross-platform task manager app with real-time sync.*
-* **Tech:** React Native, Firebase, TypeScript.
-* 🔗 [View Repository](#)
-
----
-
-## 📈 GitHub Stats
+### 💻 Lenguajes
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Jorge's Stats" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+### 📱 Mobile & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+### 🖥️ Desktop
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAML-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🧰 Herramientas & IDEs
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />
+</p>
+
+---
+
+### 🖥️ Sistemas Operativos
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📊 Estadísticas Tecnológicas
+
+> Lenguajes con los que más trabajo actualmente:
+
